@@ -1,4 +1,4 @@
-Fixed SSL Error In The Version
+Fixed SSL Error In This Version
 
 # Global Address List OWA Extractor
 *Allows extraction of the Global Address List (GAL) via Outlook Web Access.*
